@@ -30,6 +30,7 @@ DID_202_IV = b'\x00' * 16
 APPLICATION_VERSIONS = {
     b'\x018965B4209000\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # Rav4 Prime
     b'\x018965B4509100\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # Sienna
+    b'\x048965F3401100\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # Tundra
 }
 
 KEY_STRUCT_SIZE = 0x20
